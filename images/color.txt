@@ -1,0 +1,8 @@
+
+color:
+yellow: #ffc61a
+white-font:#ffffff
+
+black form: #171717
+
+black-font:101010
